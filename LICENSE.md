@@ -1,3 +1,1 @@
-Open source.
-
-OneOnlineStop, LLC
+OneOnlineStop, LLC public license.
